@@ -1,19 +1,19 @@
 name: com.fredericrp.bucketgenerator
 displayName: FredericRP Bucket Generator
-description: 'a Bucket, or Bean, generator to improve your random set.'
-repoUrl: 'https://github.com/FredericRP/Standard-Assets'
+description: 'A bucket (or bean bag) is a tool to get random numbers within an interval only once. This bucket generator provides an easy way for random round robin algorithm.'
+repoUrl: 'https://github.com/FredericRP/BucketGenerator'
 parentRepoUrl: null
 licenseSpdxId: MIT
 licenseName: MIT License
 topics:
   - utilities
 hunter: ''
-gitTagPrefix: bucket
+gitTagPrefix: ''
 gitTagIgnore: ''
 minVersion: '1.2'
 image: >-
-  https://github.com/FredericRP/Standard-Assets/raw/47db55d7d0da27622c9683cdaf5f27be7e1d60de/BucketGenerator/Documentation~/images/bucket.png
-readme: 'primary:BucketGenerator/README.md'
+  https://github.com/FredericRP/BucketGenerator/blob/primary/Documentation~/images/bucket.png
+readme: 'primary:README.md'
 readme_zhCN: ''
 displayName_zhCN: ''
 description_zhCN: ''
